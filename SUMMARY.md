@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
+* [运维人员](运维人员.md)
 * [日常监控](日常监控.md)
 * [故障处理](故障处理.md)
 * [变更管理](change/变更管理.md)
