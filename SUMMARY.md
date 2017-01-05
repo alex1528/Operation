@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
 * [运维人员](运维人员.md)
 * [日常监控](日常监控.md)
+* [日常维护](日常维护.md)
 * [故障处理](故障处理.md)
 * [变更管理](change/变更管理.md)
     * [定义](change/定义.md)
@@ -14,6 +14,8 @@
         * [变更操作规范](change/变更操作规范.md)
         * [变更单规范](change/变更单规范.md)
     * [变更流程](change/变更流程.md)
+* [升级](升级.md)
 * [问题管理](问题管理.md)
 * [配置管理数据库](配置管理数据库.md)
+
 
