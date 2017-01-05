@@ -8,6 +8,7 @@
     * [定义](change/定义.md)
     * [类型和级别](change/类型和级别.md)
     * [人员和职责](change/人员和职责.md)
+    * [工具](change/工具.md)
     * [规章制度](change/规章制度.md)
         * [变更操作规范](change/变更操作规范.md)
         * [变更单规范](change/变更单规范.md)
